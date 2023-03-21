@@ -91,18 +91,7 @@ You can refer to the following articles on **_basics of Git and Github and also 
 
 This project is licensed under the MPL-2.0 License. See the [LICENSE](./LICENSE) file for details
 
-<h2 align=center> ✨ Contributors </h2>
 
-Thanks go to these **Wonderful People** 👨🏻‍💻:      🚀 **Contributions** of any kind are welcome! 
-
-<a href="https://github.com/vigneshshettyin/Flask-Generate-Certificate/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=vigneshshettyin/Flask-Generate-Certificate" />
-</a>
-
-
-<h2 align=center>Show some ❤️ by starring the repository</h2>
-
-<table><tr><td valign="top" width="50%">
 
 
 
