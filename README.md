@@ -97,10 +97,4 @@ This project is licensed under the MPL-2.0 License. See the [LICENSE](./LICENSE)
 
 
 
-</td><td valign="top" width="50%">
 
-
-[![Stargazers repo roster for @vigneshshettyin/Flask-Generate-Certificate](https://reporoster.com/stars/vigneshshettyin/Flask-Generate-Certificate)](https://github.com/vigneshshettyin/Flask-Generate-Certificate/stargazers)
-
-
-</td></tr></table>  
